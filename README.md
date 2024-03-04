@@ -19,8 +19,8 @@ Hi, I'm AGN, a Javascript Addict
 ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 ### :man_technologist: About Me :
-I'm a self taught Front-End Developer living on Saudi Arabia
-- I'm currently working on something cool!
+I'm a self-taught Front-End Developer living in Saudi Arabia
+
 
 
 
